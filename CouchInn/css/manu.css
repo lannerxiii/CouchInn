@@ -1,0 +1,12 @@
+#textoPr
+{
+	width: 68%;
+	height: 400px;
+	background-color: rgba(150, 172, 60, 0.75);
+	color:#FFF;
+	margin:0 auto;
+	text-align: left;
+	border-radius: 0.25em;
+	padding: 20px;
+	box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
+}
